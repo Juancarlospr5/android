@@ -23,7 +23,7 @@
   <project path="build" name="Juancarlospr5/android_build" remote="github" revision="cm-13.0" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="android" name="Juancarlospr5/android" remote="github" revision="cm-13.0" />
+  <project path="android" name="Juancarlospr5/android" remote="github" revision="master" />
   <project path="vendor/cm" name="Juancarlospr5/android_vendor_cm" remote="github" revision="cm-13.0" />
   <project path="packages/apps/Settings" name="Juancarlospr5/android_packages_apps_Settings" remote="github" revision="cm-13.0" />
 
