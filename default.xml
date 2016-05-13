@@ -26,13 +26,12 @@
   <project path="android" name="Juancarlospr5/android" remote="github" revision="master" />
   <project path="vendor/cm" name="Juancarlospr5/android_vendor_cm" remote="github" revision="cm-13.0" />
   <project path="packages/apps/Settings" name="Juancarlospr5/android_packages_apps_Settings" remote="github" revision="cm-13.0" />
-
-
+  <project path="art" name="Juancarlospr5/android_art" remote="github" revision="cm-13.0" />
+<!-- END ARSENIC -->
 
 <!-- BEGIN CYANOGENMOD -->
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
-  <project path="art" name="CyanogenMod/android_art" groups="pdk" />
-    <project path="bionic" name="Jgcaaprom/android_bionic" groups="pdk" />
+  <project path="bionic" name="Jgcaaprom/android_bionic" groups="pdk" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" revision="marshmallow-cts-release" remote="aosp" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" groups="pdk-cw-fs,pdk-fs" />
