@@ -27,6 +27,7 @@
   <project path="vendor/cm" name="Juancarlospr5/android_vendor_cm" remote="github" revision="cm-13.0" />
   <project path="packages/apps/Settings" name="Juancarlospr5/android_packages_apps_Settings" remote="github" revision="cm-13.0" />
   <project path="art" name="Juancarlospr5/android_art" remote="github" revision="cm-13.0" />
+  <project path="frameworks/base" name="Juancarlospr5/android_frameworks_base" remote="github" revision="cm-13.0" />
 <!-- END ARSENIC -->
 
 <!-- BEGIN CYANOGENMOD -->
@@ -136,7 +137,6 @@
   <project path="external/zip" name="CyanogenMod/android_external_zip" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
