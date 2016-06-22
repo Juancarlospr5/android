@@ -28,6 +28,7 @@
   <project path="packages/apps/Settings" name="Juancarlospr5/android_packages_apps_Settings" remote="github" revision="cm-13.0" />
   <project path="art" name="Juancarlospr5/android_art" remote="github" revision="cm-13.0" />
   <project path="frameworks/base" name="Juancarlospr5/android_frameworks_base" remote="github" revision="cm-13.0" />
+  <project path="frameworks/native" name="Juancarlospr5/android_frameworks_native" remote="github" revision="cm-13.0" />
 <!-- END ARSENIC -->
 
 <!-- BEGIN CYANOGENMOD -->
@@ -155,7 +156,6 @@
   <project path="frameworks/minikin" name="CyanogenMod/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/multidex" name="CyanogenMod/android_frameworks_multidex" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" groups="pdk" />
   <project path="frameworks/opt/bitmap" name="CyanogenMod/android_frameworks_opt_bitmap" groups="pdk-fs" />
   <project path="frameworks/opt/bluetooth" name="CyanogenMod/android_frameworks_opt_bluetooth" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" groups="pdk-cw-fs,pdk-fs" />
