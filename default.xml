@@ -31,11 +31,12 @@
   <project path="frameworks/native" name="Juancarlospr5/android_frameworks_native" remote="github" revision="cm-13.0" />
   <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-13.0" />
   <project path="external/sqlite" name="temasek/android_external_sqlite" remote="github" revision="cm-13.0" />
+  <project path="bionic" name="Jgcaaprom/android_bionic" remote="github" revision="cm-13.0" />
 <!-- END ARSENIC -->
 
 <!-- BEGIN CYANOGENMOD -->
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
-  <project path="bionic" name="Jgcaaprom/android_bionic" groups="pdk" />
+
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" revision="marshmallow-cts-release" remote="aosp" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" groups="pdk-cw-fs,pdk-fs" />
