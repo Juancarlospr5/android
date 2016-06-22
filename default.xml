@@ -30,6 +30,7 @@
   <project path="frameworks/base" name="Juancarlospr5/android_frameworks_base" remote="github" revision="cm-13.0" />
   <project path="frameworks/native" name="Juancarlospr5/android_frameworks_native" remote="github" revision="cm-13.0" />
   <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-13.0" />
+  <project path="external/sqlite" name="temasek/android_external_sqlite" remote="github" revision="cm-13.0" />
 <!-- END ARSENIC -->
 
 <!-- BEGIN CYANOGENMOD -->
@@ -132,7 +133,6 @@
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" groups="pdk" />
   <project path="external/speex" name="CyanogenMod/android_external_speex" groups="pdk" />
   <project path="external/spongycastle" name="CyanogenMod/android_external_spongycastle" groups="pdk" />
-  <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" groups="pdk" />
   <project path="external/stagefright-plugins" name="CyanogenMod/android_external_stagefright-plugins" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/tcpdump" name="CyanogenMod/android_external_tcpdump" groups="pdk,pdk-cw-fs,pdk-fs" />
