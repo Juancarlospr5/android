@@ -29,7 +29,7 @@
   <project path="art" name="Juancarlospr5/android_art" remote="github" revision="cm-13.0" />
   <project path="frameworks/base" name="Juancarlospr5/android_frameworks_base" remote="github" revision="cm-13.0" />
   <project path="frameworks/native" name="Juancarlospr5/android_frameworks_native" remote="github" revision="cm-13.0" />
-  <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-13.0" />
+  <project path="system/core" name="Juancarlospr5/android_system_core" remote="github" revision="cm-13.0" />
   <project path="external/sqlite" name="temasek/android_external_sqlite" remote="github" revision="cm-13.0" />
   <project path="bionic" name="Jgcaaprom/android_bionic" remote="github" revision="cm-13.0" />
 <!-- END ARSENIC -->
