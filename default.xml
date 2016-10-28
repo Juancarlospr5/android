@@ -32,6 +32,7 @@
   <project path="system/core" name="Juancarlospr5/android_system_core" remote="github" revision="cm-13.0" />
   <project path="external/sqlite" name="temasek/android_external_sqlite" remote="github" revision="cm-13.0" />
   <project path="bionic" name="Jgcaaprom/android_bionic" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/CMUpdater" name="Juancarlospr5/android_packages_apps_CMUpdater" remote="github" revision="cm-13.0" />
 <!-- END ARSENIC -->
 
 <!-- BEGIN CYANOGENMOD -->
@@ -216,7 +217,6 @@
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/CMBugReport" name="CyanogenMod/android_packages_apps_CMBugreport" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
-  <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" groups="pdk-fs" />
   <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" groups="pdk-fs" />
